@@ -3,6 +3,8 @@ Resolusi tahun 2024
  1. belajar HTML
  2. belajar CSS
  3. belajar javascrip
+  a. Reach
+  b. Vue
 - Belajar python
 - Belajar Cybersecurity
 - Belajar Editor
